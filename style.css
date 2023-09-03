@@ -82,6 +82,7 @@ navbar a:hover, a:hover {
     grid-template-columns: repeat(auto-fill, minmax(30%, 1fr));
     gap:20px;
     justify-content: center;
+    overflow:auto;
 }
 
 .project {
