@@ -140,7 +140,7 @@ footer {
     text-align:center;
 }
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 950px) {
     body {
         font-size:0.9rem;
     }
