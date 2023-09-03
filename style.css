@@ -140,7 +140,7 @@ footer {
     text-align:center;
 }
 
-@media screen and (max-width: 950px) {
+@media screen and (max-width: 828px) {
     body {
         font-size:0.9rem;
     }
@@ -150,7 +150,7 @@ footer {
         justify-content:space-between;
     }
     .welcome h1 {
-        font-size: 5px;
+        font-size: 1px;
     }
     .welcome p {
         margin-top:10px;
